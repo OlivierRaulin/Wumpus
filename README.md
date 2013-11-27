@@ -27,13 +27,13 @@ Le jeu est actuellement bugué :-(
 
 Installation
 ======
-1- Compiler les classes Java
+1- Compiler les classes Java  
  javac *.java
 
-2- Lancer le serveur
+2- Lancer le serveur  
  java Serveur
 
-3- Lancer le client
+3- Lancer le client  
  java Client
 
 Débuguer :-)
