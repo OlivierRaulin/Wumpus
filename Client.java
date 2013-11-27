@@ -8,7 +8,7 @@ public class Client {
 	public static void main(String[] args){
 		Socket socket;
 		try {
-		socket = new Socket("localhost",10000);
+		socket = new Socket("localhost",1457);
 		//code du client
 		 try 
 				{
