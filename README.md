@@ -23,7 +23,7 @@ Il a des sensations :
 
 Le but ? Récupérer l'or, éventuellement tuer le Wumpus, et ressortir.
 
-Le jeu est actuellement bugué :-(
+Le jeu est fonctionnel !
 
 Installation
 ======
@@ -36,4 +36,4 @@ Installation
 3- Lancer le client  
  java Client
 
-Débuguer :-)
+Enjoy !
